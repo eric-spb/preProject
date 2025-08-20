@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b521d69c-450e-487c-8d9b-0f8b4f2576ec" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/TaskJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaskJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kata/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/TaskJDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP_1_1_3-4_JDBC_Hibernate-master/src/test/java/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preProject" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
+        <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -56,7 +66,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "First-commit",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/Kata/PP_1_1_3-4_JDBC_Hibernate-master",
@@ -114,6 +124,7 @@
       <workItem from="1755633500511" duration="2219000" />
       <workItem from="1755683672922" duration="419000" />
       <workItem from="1755684201461" duration="960000" />
+      <workItem from="1755685264541" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -123,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755630265256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1755685344391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755685344391</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1755685397031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755685397031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
