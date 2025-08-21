@@ -1,15 +1,15 @@
 package jm.task.core.jdbc.model;
 
-import javax.persistence.Column;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 //Уже изначально реализованы аннотации для
 //работы с Юзером при помощи Hibernate
-//но разве не должна быть аннотация сущности(?)
+@Entity
 @Table(name = "users")
 public class User {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name =  "id")
     private Long id;
 
     @Column(name = "name")

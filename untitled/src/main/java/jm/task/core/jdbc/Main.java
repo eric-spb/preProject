@@ -4,10 +4,12 @@ package jm.task.core.jdbc;
 import jm.task.core.jdbc.dao.UserDao;
 import jm.task.core.jdbc.dao.UserDaoJDBCImpl;
 import jm.task.core.jdbc.model.User;
-import jm.task.core.jdbc.util.Util;
+import jm.task.core.jdbc.util.*;
+import org.hibernate.*;
 
 import java.sql.Connection;
 import java.sql.SQLException;
+import java.util.*;
 
 import static jm.task.core.jdbc.util.Util.getConnection;
 
@@ -43,5 +45,9 @@ public class Main {
         userDao.getAllUsers();
         userDao.cleanUsersTable();
         userDao.dropUsersTable();
+
+
+
+
     }
 }
