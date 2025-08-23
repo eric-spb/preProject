@@ -1,0 +1,3 @@
+-Installed SonarQube for IDE, checked all critical notifications - it's found none
+-Add gitignore
+-Removed idea, target
